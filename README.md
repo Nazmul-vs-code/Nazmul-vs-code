@@ -1,7 +1,7 @@
 <!-- ========================= BANNER ========================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=👋+Welcome+to+my+GitHub+Profile;💻+Full-stack+Developer;⚛️+React.js+Developer;▲+Next.js+Developer;🔐+Cyber+Security+Enthusiast;🐞+Bug+Bounty+Hunter;🚀+Building+Modern+Web+Applications" alt="Typing SVG" />
+  <img src="https://i.ibb.co.com/x0HG5K3/Chat-GPT-Image-Jul-9-2026-04-14-01-PM.png" alt="Nazmul Huda Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nazmul Huda</h1>
