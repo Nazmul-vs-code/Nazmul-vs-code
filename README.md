@@ -78,13 +78,12 @@ Alongside web development, I actively learn Cyber Security and Bug Bounty Huntin
 # 🌐 Connect With Me
 
 <p align="left">
-
-<a href="https://www.linkedin.com/in/nazmul-huda-89b58b203/">
-<img src="https://www.linkedin.com/in/nazmul-huda-89b58b203/" />
-</a>
-
-
+  <a href="https://www.linkedin.com/in/nazmul-huda-89b58b203/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
 </p>
+
+
 
 ---
 
