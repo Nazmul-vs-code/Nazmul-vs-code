@@ -1,7 +1,7 @@
 <!-- ========================= BANNER ========================= -->
 
 <p align="center">
-  <img src="./assets/banner.png" alt="Nazmul Huda Banner" width="100%" />
+  <img src="https://ibb.co.com/mw8tzrS" alt="Nazmul Huda Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nazmul Huda</h1>
