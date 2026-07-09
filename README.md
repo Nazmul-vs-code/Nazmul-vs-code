@@ -16,7 +16,7 @@
 
 # 👨‍💻 About Me
 
-I'm a passionate Frontend Developer from Bangladesh who enjoys building modern, responsive, and user-friendly web applications.
+I'm a passionate Full-stack Developer from Bangladesh who enjoys building modern, responsive, and user-friendly web applications.
 
 Alongside web development, I actively learn Cyber Security and Bug Bounty Hunting. I love solving real-world problems, exploring new technologies, and continuously improving my development skills.
 
@@ -67,9 +67,9 @@ Alongside web development, I actively learn Cyber Security and Bug Bounty Huntin
 - Bug Bounty
 - XSS
 - IDOR
-- CSRF
+- Broken Access Control (Privileged Escalations)
+- Account Takeover
 - CORS
-- Clickjacking
 - Open Redirect
 - Information Disclosure
 
