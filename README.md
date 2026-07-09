@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Nazmul Huda</h1>
 
 <h3 align="center">
-Frontend Developer | React.js | Next.js | Cyber Security Enthusiast
+Full-stack Developer | React.js | Next.js | Cyber Security Enthusiast
 </h3>
 
 ---
