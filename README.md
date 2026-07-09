@@ -1,7 +1,7 @@
 <!-- ========================= BANNER ========================= -->
 
 <p align="center">
-  <img src="https://ibb.co.com/mw8tzrS" alt="Nazmul Huda Banner" width="100%" />
+  <img src="https://i.ibb.co.com/x0HG5K3/Chat-GPT-Image-Jul-9-2026-04-14-01-PM.png" alt="Nazmul Huda Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nazmul Huda</h1>
