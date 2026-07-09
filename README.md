@@ -88,7 +88,7 @@ Alongside web development, I actively learn Cyber Security and Bug Bounty Huntin
 ---
 
 # 📊 GitHub Stats
-![GitHubCard](https://githubcard.com/Nazmul-vs-code.svg?d=1_Q4fb7tbT56)
+![GitHubCard](https://githubcard.com/Nazmul-vs-code.svg?d=MB-iZx9pmrrC)
 
 
 ---
