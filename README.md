@@ -79,17 +79,10 @@ Alongside web development, I actively learn Cyber Security and Bug Bounty Huntin
 
 <p align="left">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" />
+<a href="https://www.linkedin.com/in/nazmul-huda-89b58b203/">
+<img src="https://www.linkedin.com/in/nazmul-huda-89b58b203/" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://twitter.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=twitter" />
-</a>
 
 </p>
 
