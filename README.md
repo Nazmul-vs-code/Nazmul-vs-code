@@ -93,25 +93,8 @@ Alongside web development, I actively learn Cyber Security and Bug Bounty Huntin
 
 ---
 
-# 🔥 GitHub Streak
 
-<p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&row=1&column=7" />
-
-</p>
-
----
 
 ## 💡 Favorite Quote
 
