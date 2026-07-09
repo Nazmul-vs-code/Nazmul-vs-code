@@ -7,7 +7,9 @@
 <h1 align="center">Hi 👋, I'm Nazmul Huda</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=👋+Welcome+to+my+GitHub+Profile;💻+Full-stack+Developer;⚛️+React.js+Developer;▲+Next.js+Developer;🔐+Cyber+Security+Enthusiast;🐞+Bug+Bounty+Hunter;🚀+Building+Modern+Web+Applications" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full-stack+Developer;React.js+Developer;Next.js+Developer;Cyber+Security+Enthusiast" alt="Typing SVG">
+  </a>
 </p>
 
 ---
